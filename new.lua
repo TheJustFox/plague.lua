@@ -1,6 +1,6 @@
 local TweenService = game:GetService("TweenService")
 local Workspace = game:GetService("Workspace")
-getgenv().HOST = "http://127.0.0.1:8080/"
+getgenv().HOST = "https://github.com/TheJustFox/plague.lua/raw/refs/heads/main/"
 
 local Plague = Instance.new("ScreenGui")
 local TextLabel = Instance.new("TextLabel")
