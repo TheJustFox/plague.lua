@@ -37,7 +37,7 @@ return {
                     name = "delay",
                     type = "slider",
                     text = "Delay",
-                    min = 0.1,
+                    min = 0.03,
                     max = 3,
                     default = 1,
                     callback = nil,
